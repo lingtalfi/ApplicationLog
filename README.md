@@ -96,6 +96,9 @@ ApplicationLog::add($e); // message handling exception
 ```
 
 
+Note: learn more about [bigbang autoloader](https://github.com/lingtalfi/TheScientist/blob/master/convention.portableAutoloader.eng.md)
+
+
 Dependencies
 ------------------
 
