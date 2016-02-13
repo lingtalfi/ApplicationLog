@@ -99,10 +99,11 @@ ApplicationLog::add($e); // message handling exception
 Note: learn more about [bigbang autoloader](https://github.com/lingtalfi/TheScientist/blob/master/convention.portableAutoloader.eng.md)
 
 
-Recommendation
--------------------
+Related
+------------
 
-You also might be interested in [QuickLog class](https://github.com/lingtalfi/QuickLog)
+- [QuickLog](https://github.com/lingtalfi/QuickLog): simple log system for your app
+- [InstantLog](https://github.com/lingtalfi/InstantLog): log for instant debug
 
 
 

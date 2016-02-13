@@ -16,7 +16,6 @@ namespace ApplicationLog;
  *      - you can tag your messages
  *      - you can pass exceptions directly
  * 
- * 
  */
 use Bat\FileSystemTool;
 
