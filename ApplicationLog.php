@@ -1,6 +1,6 @@
 <?php
 
-namespace ApplicationLog;
+namespace Ling\ApplicationLog;
 
 /*
  * LingTalfi 2015-10-25
@@ -17,7 +17,7 @@ namespace ApplicationLog;
  *      - you can pass exceptions directly
  * 
  */
-use Bat\FileSystemTool;
+use Ling\Bat\FileSystemTool;
 
 class ApplicationLog
 {

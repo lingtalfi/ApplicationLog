@@ -19,7 +19,7 @@ Install
 
 Using the [uni tool](https://github.com/lingtalfi/universe-naive-importer)
 ```bash
-uni import ApplicationLog
+uni import Ling/ApplicationLog
 ```
 
 
@@ -51,7 +51,7 @@ How to use
 <?php
 
 
-use ApplicationLog\ApplicationLog;
+use Ling\ApplicationLog\ApplicationLog;
 
 
 require_once "bigbang.php";
